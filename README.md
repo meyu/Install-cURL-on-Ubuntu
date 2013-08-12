@@ -26,3 +26,5 @@ sudo aptitude install curl
 =
 ###[curl and libcurl](http://curl.haxx.se/)
 >cURL 的專案開發網站
+###[Ubuntu – 在 precise 中的 curl 套件詳細資訊](http://packages.ubuntu.com/precise/curl)
+>cURL 在 Ubuntu Packages 中之套件資訊
