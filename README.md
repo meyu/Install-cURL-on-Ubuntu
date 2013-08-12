@@ -6,7 +6,7 @@ Installing-cURL-on-Ubuntu
 簡要
 =
 於 Ubuntu 上安裝 cURL 工具，以便使用 url 指令來傳輸檔案。
----本文使用環境為 Ubuntu Server 12.04
+<br/>---本文使用環境為 Ubuntu Server 12.04
 
 
 安裝方式
