@@ -8,15 +8,10 @@ Ubuntu Server 12.04
 
 安裝方式
 =
-於終端機中，輸入指令：
+於終端機中，輸入以下指令即可：
 ```bash
 sudo aptitude install curl
 ```
-或
-```bash
-sudo apt-get install curl
-```
-待出現訊息時，即完成安裝。
 
 <br>
 <br>
